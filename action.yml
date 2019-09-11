@@ -1,6 +1,6 @@
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
 name: 'Gox Build'
-description: 'Github Action for cross compiling Go code'
+description: 'Github Action for cross compiling tagged Go code'
 author: 'piot'
 env:
   'GITHUB_TOKEN': 'provided by Github Actions'
